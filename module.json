@@ -1,12 +1,11 @@
 {
-  "id": "wng-system-translation-fr",
-  "title": "Translation: Wrath & Glory - System - Traduction FR",
-  "description": "This module implements a French translation of the system created by Man Moon for playing Warhammer 40k: Wrath & Glory.",
+  "id": "wng-system-translation-pl",
+  "title": "Translation: Wrath & Glory - System - Tłumaczenie PL",
+  "description": "This module implements a Polish translation of the system created by Man Moon for playing Warhammer 40k: Wrath & Glory.",
   "authors": [
     {
-      "name": "Blacklisted Jack",
-      "discord": "blacklistedjack",
-      "url": "https://github.com/alemanym",
+      "name": "Deix",
+      "url": "https://github.com/Deixx",
       "flags": {}
     }
   ],
@@ -27,15 +26,15 @@
   "coreTranslation": true,
   "languages": [
     {
-      "lang": "fr",
-      "name": "Français",
-      "path": "lang/fr.json",
+      "lang": "pl",
+      "name": "Polski",
+      "path": "lang/pl.json",
       "flags": {}
     }
   ],
   "license": "LICENSE",
   "readme": "README.md",
-  "url": "https://github.com/alemanym/wng-system-translation-fr",
-  "manifest": "https://github.com/alemanym/wng-system-translation-fr/releases/download/1.0.0/module.json",
-  "download": "https://github.com/alemanym/wng-system-translation-fr/releases/download/1.0.0/wng-system-translation-fr.zip"
+  "url": "https://github.com/Deixx/wng-system-translation-pl",
+  "manifest": "https://github.com/Deixx/wng-system-translation-pl/releases/download/1.0.0/module.json",
+  "download": "https://github.com/Deixx/wng-system-translation-pl/releases/download/1.0.0/wng-system-translation-pl.zip"
 }
