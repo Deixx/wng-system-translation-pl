@@ -47,7 +47,7 @@ jobs:
         uses: ncipollo/release-action@v1.9.0
         with:
           allowUpdates: true # Set this to false if you want to prevent updating existing releases
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT }}
           name: ${{ github.event.release.name }}
           draft: ${{ github.event.release.unpublished }}
           prerelease: ${{ github.event.release.prerelease }}
