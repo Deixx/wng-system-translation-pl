@@ -2,7 +2,7 @@
 
 ## DISCLAIMER/LICENCE
 
-This module depends on the [Warhammer 40k: Wrath & Glory](https://foundryvtt.com/packages/wrath-and-glory/) system developed by [Man Moon](https://github.com/moo-man). The present works is under the intellectual property of Khaos Project and C7 only.
+This module depends on the [Warhammer 40k: Wrath & Glory](https://foundryvtt.com/packages/wrath-and-glory/) system developed by [Moo Man](https://github.com/moo-man). The present works is under the intellectual property of Khaos Project and C7 only.
 
 This module is the Polish translation of the Wrath & Glory system from Moo Man for Foundry VTT. It is heavily based on the French translation module by [Blacklisted Jack](https://github.com/alemanym/wng-system-translation-fr). Thank you!
 
@@ -20,4 +20,4 @@ Tłumaczenie dotyczy wyłącznie systemu samego w sobie, a nie zawartości kompe
 
 ## Zależności
 
- - Oficjalny system W&G dla Foundry VTT stworzony przez Man Moon : https://foundryvtt.com/packages/wrath-and-glory/
+ - Oficjalny system W&G dla Foundry VTT stworzony przez Moo Man : https://foundryvtt.com/packages/wrath-and-glory/
